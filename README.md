@@ -10,9 +10,12 @@ One of its standout features is its integrated chatbot powered by CopilotKit, wh
 + Conversation Summarization: Convo's chatbot enables users to summarize conversations with ease. By condensing lengthy discussions into concise summaries, users can review important points quickly and effectively.
 Overall, Convo's integration with Copilot enhances the chatting experience by providing intelligent features that streamline communication and promote meaningful interactions.
 
+![image](https://github.com/Tanisha-Verma-16/Convo-A-CopilotKit-Empowered-Chat-Application-/assets/133028789/79aa8d7c-0d15-4c30-98c3-ad10b80027ab)
+
 
 ### Google Sign-In: Users can sign in to Convo using their Google accounts, ensuring a hassle-free authentication process.
-![Screenshot (10)](https://github.com/Tanisha-Verma-16/Convo-A-CopilotKit-Empowered-Chat-Application-/assets/133028789/00d82b72-16c7-4456-afff-6651290b7b6f)
+![image](https://github.com/Tanisha-Verma-16/Convo-A-CopilotKit-Empowered-Chat-Application-/assets/133028789/4f53c194-01e0-4510-b156-86f3d1467991)
+
 
 
 ## Setup
