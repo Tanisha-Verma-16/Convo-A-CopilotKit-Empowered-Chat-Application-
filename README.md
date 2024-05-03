@@ -1,8 +1,8 @@
 # Convo-A-CopilotKit-Empowered-Chat-Application-
 Convo is a chat application designed to facilitate seamless communication among users. 
 
-## Copilot Integration
-One of its standout features is its integrated chatbot powered by Copilot, which enhances the user experience in several ways:
+## CopilotKit Integration
+One of its standout features is its integrated chatbot powered by CopilotKit, which enhances the user experience in several ways:
 
 + Chat Summary: Convo's chatbot can automatically summarize conversations, providing users with a quick overview of the discussion's key points. This feature saves time by allowing users to catch up on past conversations efficiently.
 + Question Answering: Users can ask questions related to the chat summary, and the chatbot will provide relevant answers based on the conversation context. Whether it's clarifying details or seeking additional information, users can rely on the chatbot for prompt responses.
