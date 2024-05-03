@@ -1,4 +1,4 @@
-# Convo-A-CopilotKit-Empowered-Chat-Application-
+# Convo-A-CopilotKit-Empowered-Chat-Application
 Convo is a chat application designed to facilitate seamless communication among users. 
 
 ## CopilotKit Integration
