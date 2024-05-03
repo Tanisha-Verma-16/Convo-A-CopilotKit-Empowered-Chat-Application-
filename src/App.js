@@ -77,8 +77,13 @@ function SignIn() {
 
   return (
     <div className="SignIn">
+<p>
+        Convo is a chat application designed to facilitate seamless
+        communication among users.
+      </p>
       <p>
-        Do not violate the community guidelines or you will be banned for life!
+        One of its standout features is its integrated chatbot powered by
+        CopilotKit.
       </p>
       <button className="sign-in" onClick={signInWithGoogle}>
         Sign in with Google
