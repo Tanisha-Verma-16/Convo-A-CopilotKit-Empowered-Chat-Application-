@@ -38,7 +38,7 @@ function App() {
   return (
     <div className="App">
       <header>
-        <h1>⚛️🔥💬</h1>
+        <h1>Convo</h1>
         <SignOut />
       </header>
       <div className="Column-Container">
@@ -49,8 +49,6 @@ function App() {
           <CopilotKit publicApiKey="YOUR_PUBLIC_API_KEY">
             <CopilotSidebar>
               <CopilotTextarea
-                className="CopilotTextarea"
-                placeholder="Ask me anything..."
                 autosuggestionsConfig={{
                   textareaPurpose: "Chatbot for answering questions",
                   chatApiConfigs: {
