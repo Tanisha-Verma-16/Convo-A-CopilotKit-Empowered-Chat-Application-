@@ -12,6 +12,8 @@ Overall, Convo's integration with Copilot enhances the chatting experience by pr
 
 
 ### Google Sign-In: Users can sign in to Convo using their Google accounts, ensuring a hassle-free authentication process.
+![Screenshot (10)](https://github.com/Tanisha-Verma-16/Convo-A-CopilotKit-Empowered-Chat-Application-/assets/133028789/00d82b72-16c7-4456-afff-6651290b7b6f)
+
 
 ## Setup
 To set up Convo on your local machine, follow these steps:
