@@ -27,7 +27,7 @@ git clone https://github.com/Tanisha-Verma-16/Convo-A-CopilotKit-Empowered-Chat-
 ```
 Navigate to the project directory:
 ```
-cd Convo
+cd Convo-A-CopilotKit-Empowered-Chat-Application-
 ```
 Install dependencies:
 ```
