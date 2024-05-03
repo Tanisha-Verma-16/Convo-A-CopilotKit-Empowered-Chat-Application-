@@ -35,6 +35,9 @@ npm install
 ```
 
 Obtain an OpenAI API key and add it to your environment variables.
+Add your OpenAi API Key in the src/App.js file, here...
+![OpeaAi](https://github.com/Tanisha-Verma-16/Convo-A-CopilotKit-Empowered-Chat-Application-/assets/133028789/4c879837-ca54-4241-b8b5-e4ae8e1bc416)
+
 Start the development server:
 ```
 npm start
